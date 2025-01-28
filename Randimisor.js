@@ -1,3 +1,4 @@
+// hi i stol- i mean borrowed this from #guigui (https://github.com/HastagGuigui) Thanks dude!!!!                                                    
 const lines = [
     "Being funny since 2006",
     "Hopefully this doesn't violate 39 copyright laws",
